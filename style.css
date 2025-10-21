@@ -35,3 +35,84 @@
         
      /* KESENIAN */
 
+
+/* LANDING PAGE */
+
+.maRec3 {
+    margin-left: 34.5rem;
+}
+
+.marec3 {
+    background-color: #705C53;
+    object-fit: cover;
+    width: 13rem;
+    height: 20rem;
+    margin-right: 1rem;
+}
+
+.majdl {
+    font-family: italiana;
+    margin-left: 3rem;
+    margin-top: -18rem;
+}
+
+.maisi {
+    font-size: 0.6;
+    font-family: istok web;
+    margin-top: 1rem;
+} 
+
+.matwo {
+    background-color: #C5C7BC;
+    width: 79rem;
+    height: 36rem;
+    margin-top: 5rem;
+}
+
+.mafto {
+    margin-top: 5.5rem;
+    height: 25rem;
+}
+
+.majdlo {
+    font-family: italiana;
+    margin-left: 31rem;
+    margin-top: -27.5rem;
+}
+
+.maisio {
+    font-size: 0.6;
+    font-family: istok web;
+    margin-top: 1rem;
+} 
+
+.mathree {
+    margin-top: 9rem;
+}
+
+.majdlet {
+    font-family: italiana;
+    text-align: center;
+}
+
+.macon {
+    margin-left: 8rem;
+    margin-top: 4rem;
+}
+
+.marec4 {
+    margin-top: 2rem;
+}
+
+.mafo {
+    object-fit: cover;
+    width: 14rem;
+    height: 10rem;
+}
+
+.matxt {
+    margin-left: 4rem;
+    margin-top: 2rem;
+    font-family: Jacques Francois;
+}
+
