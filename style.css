@@ -1,3 +1,5 @@
+/* NAVBAR */
+
 
 .custom-navbar {
             background-color: #705C53;
@@ -11,7 +13,9 @@
         }
         
         .navbar-nav .nav-link {
-            color: #000 ;
+            color: #ffffff ;
+            position: relative;
+            left: 30rem;
             font-size: 1.1rem;
             font-weight: 500;
             margin: 0 0.5rem;
@@ -20,7 +24,7 @@
         }
         
         .navbar-nav .nav-link:hover {
-            color: #000 ;
+            color: #ffffff ;
         }
         
         .navbar-nav .nav-link.active {
@@ -29,3 +33,5 @@
         }
         
         
+     /* KESENIAN */
+
