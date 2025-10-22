@@ -88,8 +88,45 @@
 }
 
    /* RUMAH ADAT */
- 
+.title {
+   position: absolute;
+   top: 24rem;
+   left: 25rem;
+   color: floralwhite;
+  font-size: 47px;
+  text-align: justify;
+  text-shadow: #ffffff;
+}
+   .beranda {
+    width: 100%;
+    height: auto;
+}
+.judul1 {
+  font-size: 45px;
+  color: #705C53;
+  text-align: center;
+  margin-left: 4%;
+  margin-top: 5%;
+}
+.penjelasan{
+  max-width: 60%;
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.poster {
+  width: 30%;
+  height: auto;
+  margin-top: -15%;
+  margin-left: 66%;
 
+}
+.judul2 {
+  font-size: 11px;
+  color: #705C53;
+  text-align: center;
+  margin-left: 4px;
+  margin-top: 5px;
+}
 
         
      /* KESENIAN */
@@ -244,6 +281,8 @@
       text-align: left;
   }
 
+  
+
 
 /* .kesenian{
         position: absolute;
@@ -330,6 +369,3 @@
   .element.img{
 
 
-
-  
-  
