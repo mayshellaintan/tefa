@@ -110,7 +110,7 @@
 }
 .penjelasan{
   max-width: 60%;
-  margin-top: 5%;
+  margin-top: 6%;
   margin-left: 5%;
 }
 .poster {
@@ -129,8 +129,34 @@
 }
 .penjelasan2{
   max-width: 60%;
-  margin-left: 5%;
-  margin-top: 5%;
+  margin-left: 18%;
+  margin-top: 8%;
+}
+.garis{
+  position: relative;
+  left: -1rem;
+  border: none;
+  height: 3px;
+  background-color: #705C53;
+  width: 100%;
+  margin-top: 5rem;
+} 
+.back{
+  width: 30%;
+  height: auto;
+  margin-top: 8rem;
+  margin-left: 55px;
+}
+.penjelasan3{
+  max-width: 60%;
+  margin-left: 30rem;
+  margin-top: -15rem;
+}
+.gambar1{
+  width: 30%;
+  height: auto;
+  margin-top: -20%;
+  margin-left: 20rem;
   
 }
 
